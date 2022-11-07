@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Juarez 🇧🇷
 - 🔭 I’m currently working in Brazil
-- 🌱 I’m currently learning flutter and dart
+- 🌱 I’m currently working with PHP and Flutter
 - 👯 I’m looking to learning and collaborate in the community
 - ⚡ Fun fact: I like a coffee
 
